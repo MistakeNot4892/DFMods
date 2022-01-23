@@ -1507,6 +1507,7 @@ Squids were sponsored by the generous contributions of the Bay 12 community.
 [CREATURE:SQUID MAN]
 	[COPY_TAGS_FROM:SQUID]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
+	[APPLY_CURRENT_CREATURE_VARIATION]
 	[GO_TO_END]
 	[SELECT_CASTE:MALE]
 		[CASTE_NAME:squid man:squid men:squid man]
@@ -1520,6 +1521,7 @@ Squids were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CLIMBING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[APPLY_CREATURE_VARIATION:STANDARD_SWIMMING_GAITS:900:734:568:366:1900:2900] 24 kph
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
+	[APPLY_CURRENT_CREATURE_VARIATION]
 	[GO_TO_START]
 	[NAME:squid man:squid men:squid man]
 	[DESCRIPTION:A small person with a head bearing ten tentacles.]
