@@ -5,7 +5,7 @@ language_GNOLL
 [TRANSLATION:GNOLL]
 	[T_WORD:ABBEY:dremeh]
 	[T_WORD:ACE:giser]
-	[T_WORD:ACT:]
+	[T_WORD:ACT:seri]
 	[T_WORD:AFTER:cunmat]
 	[T_WORD:AGE:novyikay]
 	[T_WORD:AGELESS:sabmasa]
