@@ -116,6 +116,7 @@ Crows were sponsored by the generous contributions of the Bay 12 community.
 [CREATURE:CROW_MAN]
 	[COPY_TAGS_FROM:BIRD_CROW]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
+	[APPLY_CURRENT_CREATURE_VARIATION]
 	[GO_TO_END]
 	[SELECT_CASTE:MALE]
 		[CASTE_NAME:crow man:crow men:crow man]
@@ -131,6 +132,7 @@ Crows were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CLIMBING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[APPLY_CREATURE_VARIATION:STANDARD_SWIMMING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
+	[APPLY_CURRENT_CREATURE_VARIATION]
 	[GO_TO_START]
 	[NAME:crow man:crow men:crow man]
 	[DESCRIPTION:A small person with the head and wings of a crow.]
@@ -285,6 +287,7 @@ Ravens were sponsored by the generous contributions of the Bay 12 community.
 [CREATURE:RAVEN_MAN]
 	[COPY_TAGS_FROM:BIRD_RAVEN]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
+	[APPLY_CURRENT_CREATURE_VARIATION]
 	[GO_TO_END]
 	[SELECT_CASTE:MALE]
 		[CASTE_NAME:raven man:raven men:raven man]
@@ -300,6 +303,7 @@ Ravens were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CLIMBING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[APPLY_CREATURE_VARIATION:STANDARD_SWIMMING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
+	[APPLY_CURRENT_CREATURE_VARIATION]
 	[GO_TO_START]
 	[NAME:raven man:raven men:raven man]
 	[DESCRIPTION:A person with the head and wings of a raven.]
@@ -440,6 +444,7 @@ Cassowaries were sponsored by the generous contributions of the Bay 12 community
 [CREATURE:CASSOWARY_MAN]
 	[COPY_TAGS_FROM:BIRD_CASSOWARY]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
+	[APPLY_CURRENT_CREATURE_VARIATION]
 	[GO_TO_END]
 	[SELECT_CASTE:MALE]
 		[CASTE_NAME:cassowary man:cassowary men:cassowary man]
@@ -454,6 +459,7 @@ Cassowaries were sponsored by the generous contributions of the Bay 12 community
 	[APPLY_CREATURE_VARIATION:STANDARD_CLIMBING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[APPLY_CREATURE_VARIATION:STANDARD_SWIMMING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
+	[APPLY_CURRENT_CREATURE_VARIATION]
 	[GO_TO_START]
 	[NAME:cassowary man:cassowary men:cassowary man]
 	[DESCRIPTION:A brightly-colored person with the head of a cassowary.]
@@ -602,6 +608,7 @@ Kea were sponsored by the generous contributions of the Bay 12 community.
 [CREATURE:KEA_MAN]
 	[COPY_TAGS_FROM:BIRD_KEA]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
+	[APPLY_CURRENT_CREATURE_VARIATION]
 	[GO_TO_END]
 	[SELECT_CASTE:MALE]
 		[CASTE_NAME:kea man:kea men:kea man]
@@ -617,6 +624,7 @@ Kea were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CLIMBING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[APPLY_CREATURE_VARIATION:STANDARD_SWIMMING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
+	[APPLY_CURRENT_CREATURE_VARIATION]
 	[GO_TO_START]
 	[NAME:kea man:kea men:kea man]
 	[DESCRIPTION:A green person with the head of a kea.]
@@ -769,6 +777,7 @@ Snowy owls were sponsored by the generous contributions of the Bay 12 community.
 [CREATURE:SNOWY_OWL_MAN]
 	[COPY_TAGS_FROM:BIRD_OWL_SNOWY]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
+	[APPLY_CURRENT_CREATURE_VARIATION]
 	[GO_TO_END]
 	[SELECT_CASTE:MALE]
 		[CASTE_NAME:snowy owl man:snowy owl men:snowy owl man]
@@ -784,6 +793,7 @@ Snowy owls were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CLIMBING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[APPLY_CREATURE_VARIATION:STANDARD_SWIMMING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
+	[APPLY_CURRENT_CREATURE_VARIATION]
 	[GO_TO_START]
 	[NAME:snowy owl man:snowy owl men:snowy owl man]
 	[DESCRIPTION:A person with the wings and head of a snowy owl.]
@@ -936,6 +946,7 @@ Sparrows were sponsored by the generous contributions of the Bay 12 community.
 [CREATURE:SPARROW_MAN]
 	[COPY_TAGS_FROM:SPARROW]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
+	[APPLY_CURRENT_CREATURE_VARIATION]
 	[GO_TO_END]
 	[SELECT_CASTE:MALE]
 		[CASTE_NAME:sparrow man:sparrow men:sparrow man]
@@ -951,6 +962,7 @@ Sparrows were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CLIMBING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[APPLY_CREATURE_VARIATION:STANDARD_SWIMMING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
+	[APPLY_CURRENT_CREATURE_VARIATION]
 	[GO_TO_START]
 	[NAME:sparrow man:sparrow men:sparrow man]
 	[DESCRIPTION:A person with the head and wings of a sparrow.]
@@ -1086,6 +1098,7 @@ Storks were sponsored by the generous contributions of the Bay 12 community.
 [CREATURE:WHITE_STORK_MAN]
 	[COPY_TAGS_FROM:BIRD_STORK_WHITE]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
+	[APPLY_CURRENT_CREATURE_VARIATION]
 	[GO_TO_END]
 	[SELECT_CASTE:MALE]
 		[CASTE_NAME:white stork man:white stork men:white stork man]
@@ -1100,6 +1113,7 @@ Storks were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CLIMBING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[APPLY_CREATURE_VARIATION:STANDARD_SWIMMING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
+	[APPLY_CURRENT_CREATURE_VARIATION]
 	[GO_TO_START]
 	[NAME:white stork man:white stork men:white stork man]
 	[DESCRIPTION:A person with the head and wings of a stork, also standing on long legs.]
@@ -1236,6 +1250,7 @@ Loons were sponsored by the generous contributions of the Bay 12 community.
 [CREATURE:LOON_MAN]
 	[COPY_TAGS_FROM:BIRD_LOON]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
+	[APPLY_CURRENT_CREATURE_VARIATION]
 	[GO_TO_END]
 	[SELECT_CASTE:MALE]
 		[CASTE_NAME:loon man:loon men:loon man]
@@ -1250,6 +1265,7 @@ Loons were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CLIMBING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[APPLY_CREATURE_VARIATION:STANDARD_SWIMMING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
+	[APPLY_CURRENT_CREATURE_VARIATION]
 	[GO_TO_START]
 	[NAME:loon man:loon men:loon man]
 	[DESCRIPTION:A person with the head and wings of a loon.]
@@ -1404,6 +1420,7 @@ Barn owl were sponsored by the generous contributions of the Bay 12 community.
 [CREATURE:BARN_OWL_MAN]
 	[COPY_TAGS_FROM:BIRD_OWL_BARN]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
+	[APPLY_CURRENT_CREATURE_VARIATION]
 	[GO_TO_END]
 	[SELECT_CASTE:MALE]
 		[CASTE_NAME:barn owl man:barn owl men:barn owl man]
@@ -1419,6 +1436,7 @@ Barn owl were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CLIMBING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[APPLY_CREATURE_VARIATION:STANDARD_SWIMMING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
+	[APPLY_CURRENT_CREATURE_VARIATION]
 	[GO_TO_START]
 	[NAME:barn owl man:barn owl men:barn owl man]
 	[DESCRIPTION:A person with the arms and wings of a barn owl.]
@@ -1567,6 +1585,7 @@ Parakeets were sponsored by the generous contributions of the Bay 12 community.
 [CREATURE:PARAKEET_MAN]
 	[COPY_TAGS_FROM:BIRD_PARAKEET]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
+	[APPLY_CURRENT_CREATURE_VARIATION]
 	[GO_TO_END]
 	[SELECT_CASTE:MALE]
 		[CASTE_NAME:parakeet man:parakeet men:parakeet man]
@@ -1582,6 +1601,7 @@ Parakeets were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CLIMBING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[APPLY_CREATURE_VARIATION:STANDARD_SWIMMING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
+	[APPLY_CURRENT_CREATURE_VARIATION]
 	[GO_TO_START]
 	[NAME:parakeet man:parakeet men:parakeet man]
 	[DESCRIPTION:A person with the head and wings of a parakeet.]
@@ -1718,6 +1738,7 @@ Kakapo were sponsored by the generous contributions of the Bay 12 community.
 [CREATURE:KAKAPO_MAN]
 	[COPY_TAGS_FROM:BIRD_KAKAPO]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
+	[APPLY_CURRENT_CREATURE_VARIATION]
 	[GO_TO_END]
 	[SELECT_CASTE:MALE]
 		[CASTE_NAME:kakapo man:kakapo men:kakapo man]
@@ -1731,6 +1752,7 @@ Kakapo were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CLIMBING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[APPLY_CREATURE_VARIATION:STANDARD_SWIMMING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
+	[APPLY_CURRENT_CREATURE_VARIATION]
 	[GO_TO_START]
 	[NAME:kakapo man:kakapo men:kakapo man]
 	[DESCRIPTION:A person with the head and wings of a kakapo.]
@@ -1865,6 +1887,7 @@ Grey parrots were sponsored by the generous contributions of the Bay 12 communit
 [CREATURE:GREY_PARROT_MAN]
 	[COPY_TAGS_FROM:BIRD_PARROT_GREY]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
+	[APPLY_CURRENT_CREATURE_VARIATION]
 	[GO_TO_END]
 	[SELECT_CASTE:MALE]
 		[CASTE_NAME:grey parrot man:grey parrot men:grey parrot man]
@@ -1879,6 +1902,7 @@ Grey parrots were sponsored by the generous contributions of the Bay 12 communit
 	[APPLY_CREATURE_VARIATION:STANDARD_CLIMBING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[APPLY_CREATURE_VARIATION:STANDARD_SWIMMING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
+	[APPLY_CURRENT_CREATURE_VARIATION]
 	[GO_TO_START]
 	[NAME:grey parrot man:grey parrot men:grey parrot man]
 	[DESCRIPTION:A person with the head and wings of a grey parrot.]
@@ -2010,6 +2034,7 @@ Puffins were sponsored by the generous contributions of the Bay 12 community.
 [CREATURE:PUFFIN_MAN]
 	[COPY_TAGS_FROM:BIRD_PUFFIN]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
+	[APPLY_CURRENT_CREATURE_VARIATION]
 	[GO_TO_END]
 	[SELECT_CASTE:MALE]
 		[CASTE_NAME:puffin man:puffin men:puffin man]
@@ -2024,6 +2049,7 @@ Puffins were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CLIMBING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[APPLY_CREATURE_VARIATION:STANDARD_SWIMMING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
+	[APPLY_CURRENT_CREATURE_VARIATION]
 	[GO_TO_START]
 	[NAME:puffin man:puffin men:puffin man]
 	[DESCRIPTION:A feathered person with the head of a puffin.]
@@ -2155,6 +2181,7 @@ Swans were sponsored by the generous contributions of the Bay 12 community.
 [CREATURE:SWAN_MAN]
 	[COPY_TAGS_FROM:BIRD_SWAN]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
+	[APPLY_CURRENT_CREATURE_VARIATION]
 	[GO_TO_END]
 	[SELECT_CASTE:MALE]
 		[CASTE_NAME:swan man:swan men:swan man]
@@ -2169,6 +2196,7 @@ Swans were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CLIMBING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[APPLY_CREATURE_VARIATION:STANDARD_SWIMMING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
+	[APPLY_CURRENT_CREATURE_VARIATION]
 	[GO_TO_START]
 	[NAME:swan man:swan men:swan man]
 	[DESCRIPTION:A person with the head and wings of a swan.]
@@ -2314,6 +2342,7 @@ Lorikeets were sponsored by the generous contributions of the Bay 12 community.
 [CREATURE:LORIKEET_MAN]
 	[COPY_TAGS_FROM:BIRD_LORIKEET]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
+	[APPLY_CURRENT_CREATURE_VARIATION]
 	[GO_TO_END]
 	[SELECT_CASTE:MALE]
 		[CASTE_NAME:lorikeet man:lorikeet men:lorikeet man]
@@ -2329,6 +2358,7 @@ Lorikeets were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CLIMBING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[APPLY_CREATURE_VARIATION:STANDARD_SWIMMING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
+	[APPLY_CURRENT_CREATURE_VARIATION]
 	[GO_TO_START]
 	[NAME:lorikeet man:lorikeet men:lorikeet man]
 	[DESCRIPTION:A colorful person with the head and wings of a lorikeet.]
@@ -2479,6 +2509,7 @@ Wrens were sponsored by the generous contributions of the Bay 12 community.
 [CREATURE:WREN_MAN]
 	[COPY_TAGS_FROM:BIRD_WREN]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
+	[APPLY_CURRENT_CREATURE_VARIATION]
 	[GO_TO_END]
 	[SELECT_CASTE:MALE]
 		[CASTE_NAME:wren man:wren men:wren man]
@@ -2494,6 +2525,7 @@ Wrens were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CLIMBING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[APPLY_CREATURE_VARIATION:STANDARD_SWIMMING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
+	[APPLY_CURRENT_CREATURE_VARIATION]
 	[GO_TO_START]
 	[NAME:wren man:wren men:wren man]
 	[DESCRIPTION:A person with the head and wings of a wren.]
@@ -2646,6 +2678,7 @@ Ospreys were sponsored by the generous contributions of the Bay 12 community.
 [CREATURE:OSPREY_MAN]
 	[COPY_TAGS_FROM:BIRD_OSPREY]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
+	[APPLY_CURRENT_CREATURE_VARIATION]
 	[GO_TO_END]
 	[SELECT_CASTE:MALE]
 		[CASTE_NAME:osprey man:osprey men:osprey man]
@@ -2661,6 +2694,7 @@ Ospreys were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CLIMBING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[APPLY_CREATURE_VARIATION:STANDARD_SWIMMING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
+	[APPLY_CURRENT_CREATURE_VARIATION]
 	[GO_TO_START]
 	[NAME:osprey man:osprey men:osprey man]
 	[DESCRIPTION:A person with the head and wings of an osprey.]
@@ -2802,6 +2836,7 @@ Emus were sponsored by the generous contributions of the Bay 12 community.
 [CREATURE:EMU_MAN]
 	[COPY_TAGS_FROM:BIRD_EMU]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
+	[APPLY_CURRENT_CREATURE_VARIATION]
 	[GO_TO_END]
 	[SELECT_CASTE:MALE]
 		[CASTE_NAME:emu man:emu men:emu man]
@@ -2816,6 +2851,7 @@ Emus were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CLIMBING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[APPLY_CREATURE_VARIATION:STANDARD_SWIMMING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
+	[APPLY_CURRENT_CREATURE_VARIATION]
 	[GO_TO_START]
 	[NAME:emu man:emu men:emu man]
 	[DESCRIPTION:A feathered person with the head of an emu.]
@@ -2960,6 +2996,7 @@ Cockatiels were sponsored by the generous contributions of the Bay 12 community.
 [CREATURE:COCKATIEL_MAN]
 	[COPY_TAGS_FROM:BIRD_COCKATIEL]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
+	[APPLY_CURRENT_CREATURE_VARIATION]
 	[GO_TO_END]
 	[SELECT_CASTE:MALE]
 		[CASTE_NAME:cockatiel man:cockatiel men:cockatiel man]
@@ -2975,6 +3012,7 @@ Cockatiels were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CLIMBING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[APPLY_CREATURE_VARIATION:STANDARD_SWIMMING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
+	[APPLY_CURRENT_CREATURE_VARIATION]
 	[GO_TO_START]
 	[NAME:cockatiel man:cockatiel men:cockatiel man]
 	[DESCRIPTION:A crested person with the head and wings of a cockatiel.]
@@ -3120,6 +3158,7 @@ Peach-faced lovebirds were sponsored by the generous contributions of the Bay 12
 [CREATURE:PEACH-FACED_LOVEBIRD_MAN]
 	[COPY_TAGS_FROM:BIRD_LOVEBIRD_PEACH-FACED]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
+	[APPLY_CURRENT_CREATURE_VARIATION]
 	[GO_TO_END]
 	[SELECT_CASTE:MALE]
 		[CASTE_NAME:peach-faced lovebird man:peach-faced lovebird men:peach-faced lovebird man]
@@ -3135,6 +3174,7 @@ Peach-faced lovebirds were sponsored by the generous contributions of the Bay 12
 	[APPLY_CREATURE_VARIATION:STANDARD_CLIMBING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[APPLY_CREATURE_VARIATION:STANDARD_SWIMMING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
+	[APPLY_CURRENT_CREATURE_VARIATION]
 	[GO_TO_START]
 	[NAME:peach-faced lovebird man:peach-faced lovebird men:peach-faced lovebird man]
 	[DESCRIPTION:A colorful person with the head and wings of a peach-faced lovebird.]
@@ -3282,6 +3322,7 @@ Magpies were sponsored by the generous contributions of the Bay 12 community.
 [CREATURE:MAGPIE_MAN]
 	[COPY_TAGS_FROM:BIRD_MAGPIE]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
+	[APPLY_CURRENT_CREATURE_VARIATION]
 	[GO_TO_END]
 	[SELECT_CASTE:MALE]
 		[CASTE_NAME:magpie man:magpie men:magpie man]
@@ -3297,6 +3338,7 @@ Magpies were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CLIMBING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[APPLY_CREATURE_VARIATION:STANDARD_SWIMMING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
+	[APPLY_CURRENT_CREATURE_VARIATION]
 	[GO_TO_START]
 	[NAME:magpie man:magpie men:magpie man]
 	[DESCRIPTION:A person with the head and wings of a magpie.]
@@ -3449,6 +3491,7 @@ Kestrels were sponsored by the generous contributions of the Bay 12 community.
 [CREATURE:KESTREL_MAN]
 	[COPY_TAGS_FROM:BIRD_KESTREL]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
+	[APPLY_CURRENT_CREATURE_VARIATION]
 	[GO_TO_END]
 	[SELECT_CASTE:MALE]
 		[CASTE_NAME:kestrel man:kestrel men:kestrel man]
@@ -3464,6 +3507,7 @@ Kestrels were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CLIMBING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[APPLY_CREATURE_VARIATION:STANDARD_SWIMMING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
+	[APPLY_CURRENT_CREATURE_VARIATION]
 	[GO_TO_START]
 	[NAME:kestrel man:kestrel men:kestrel man]
 	[DESCRIPTION:A person with the head and wings of a kestrel.]
@@ -3594,6 +3638,7 @@ Albatrosses were sponsored by the generous contributions of the Bay 12 community
 [CREATURE:ALBATROSS_MAN]
 	[COPY_TAGS_FROM:BIRD_ALBATROSS]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
+	[APPLY_CURRENT_CREATURE_VARIATION]
 	[GO_TO_END]
 	[SELECT_CASTE:MALE]
 		[CASTE_NAME:albatross man:albatross men:albatross man]
@@ -3608,6 +3653,7 @@ Albatrosses were sponsored by the generous contributions of the Bay 12 community
 	[APPLY_CREATURE_VARIATION:STANDARD_CLIMBING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[APPLY_CREATURE_VARIATION:STANDARD_SWIMMING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
+	[APPLY_CURRENT_CREATURE_VARIATION]
 	[GO_TO_START]
 	[NAME:albatross man:albatross men:albatross man]
 	[DESCRIPTION:A person with the head and wings of an albatross.]
@@ -3763,6 +3809,7 @@ Great horned owls were sponsored by the generous contributions of the Bay 12 com
 [CREATURE:GREAT_HORNED_OWL_MAN]
 	[COPY_TAGS_FROM:BIRD_OWL_GREAT_HORNED]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
+	[APPLY_CURRENT_CREATURE_VARIATION]
 	[GO_TO_END]
 	[SELECT_CASTE:MALE]
 		[CASTE_NAME:great horned owl man:great horned owl men:great horned owl man]
@@ -3778,6 +3825,7 @@ Great horned owls were sponsored by the generous contributions of the Bay 12 com
 	[APPLY_CREATURE_VARIATION:STANDARD_CLIMBING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[APPLY_CREATURE_VARIATION:STANDARD_SWIMMING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
+	[APPLY_CURRENT_CREATURE_VARIATION]
 	[GO_TO_START]
 	[NAME:great horned owl man:great horned owl men:great horned owl man]
 	[DESCRIPTION:A feathered person with the head and wings of a great horned owl.]
@@ -3823,7 +3871,7 @@ Eagles were sponsored by the generous contributions of the Bay 12 community.
 	[DESCRIPTION:A small bird of prey.]
 	[NAME:eagle:eagles:eagle]
 	[CASTE_NAME:eagle:eagles:eagle]
-	[GENERAL_CHILD_NAME:eaglet:eaglets]
+	[GENERAL_CHILD_NAME:eagle chick:eagle chicks]
 	[CREATURE_TILE:'e'][COLOR:6:0:0]
 	[POPULATION_NUMBER:15:30]
 	[NATURAL]
@@ -3931,6 +3979,7 @@ Eagles were sponsored by the generous contributions of the Bay 12 community.
 [CREATURE:EAGLE_MAN]
 	[COPY_TAGS_FROM:BIRD_EAGLE]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
+	[APPLY_CURRENT_CREATURE_VARIATION]
 	[GO_TO_END]
 	[SELECT_CASTE:MALE]
 		[CASTE_NAME:eagle man:eagle men:eagle man]
@@ -3946,6 +3995,7 @@ Eagles were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CLIMBING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[APPLY_CREATURE_VARIATION:STANDARD_SWIMMING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
+	[APPLY_CURRENT_CREATURE_VARIATION]
 	[GO_TO_START]
 	[NAME:eagle man:eagle men:eagle man]
 	[DESCRIPTION:A feathered person with the head and wings of an eagle.]
@@ -4090,6 +4140,7 @@ Hornbills were sponsored by the generous contributions of the Bay 12 community.
 [CREATURE:HORNBILL_MAN]
 	[COPY_TAGS_FROM:BIRD_HORNBILL]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
+	[APPLY_CURRENT_CREATURE_VARIATION]
 	[GO_TO_END]
 	[SELECT_CASTE:MALE]
 		[CASTE_NAME:hornbill man:hornbill men:hornbill man]
@@ -4105,6 +4156,7 @@ Hornbills were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CLIMBING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[APPLY_CREATURE_VARIATION:STANDARD_SWIMMING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
+	[APPLY_CURRENT_CREATURE_VARIATION]
 	[GO_TO_START]
 	[NAME:hornbill man:hornbill men:hornbill man]
 	[DESCRIPTION:A feathered person with a brightly-colored bill.]
@@ -4248,6 +4300,7 @@ Masked lovebirds were sponsored by the generous contributions of the Bay 12 comm
 [CREATURE:MASKED_LOVEBIRD_MAN]
 	[COPY_TAGS_FROM:BIRD_LOVEBIRD_MASKED]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
+	[APPLY_CURRENT_CREATURE_VARIATION]
 	[GO_TO_END]
 	[SELECT_CASTE:MALE]
 		[CASTE_NAME:masked lovebird man:masked lovebird men:masked lovebird man]
@@ -4263,6 +4316,7 @@ Masked lovebirds were sponsored by the generous contributions of the Bay 12 comm
 	[APPLY_CREATURE_VARIATION:STANDARD_CLIMBING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[APPLY_CREATURE_VARIATION:STANDARD_SWIMMING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
+	[APPLY_CURRENT_CREATURE_VARIATION]
 	[GO_TO_START]
 	[NAME:masked lovebird man:masked lovebird men:masked lovebird man]
 	[DESCRIPTION:A colorful person with the head and wings of a masked lovebird.]
@@ -4406,6 +4460,7 @@ Bushtits were sponsored by the generous contributions of the Bay 12 community.
 [CREATURE:BUSHTIT_MAN]
 	[COPY_TAGS_FROM:BIRD_BUSHTIT]
 	[APPLY_CREATURE_VARIATION:ANIMAL_PERSON]
+	[APPLY_CURRENT_CREATURE_VARIATION]
 	[GO_TO_END]
 	[SELECT_CASTE:MALE]
 		[CASTE_NAME:bushtit man:bushtit men:bushtit man]
@@ -4421,6 +4476,7 @@ Bushtits were sponsored by the generous contributions of the Bay 12 community.
 	[APPLY_CREATURE_VARIATION:STANDARD_CLIMBING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[APPLY_CREATURE_VARIATION:STANDARD_SWIMMING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
 	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:2990:2257:1525:731:4300:6100] 12 kph
+	[APPLY_CURRENT_CREATURE_VARIATION]
 	[GO_TO_START]
 	[NAME:bushtit man:bushtit men:bushtit man]
 	[DESCRIPTION:A person with the head and wings of a bushtit.]
