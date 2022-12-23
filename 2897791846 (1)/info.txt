@@ -1,0 +1,15 @@
+[ID:clinodev_dry_mines]
+[NUMERIC_VERSION:1]
+[DISPLAYED_VERSION:1]
+[EARLIEST_COMPATIBLE_NUMERIC_VERSION:1]
+[EARLIEST_COMPATIBLE_DISPLAYED_VERSION:1]
+[AUTHOR:clinodev]
+[NAME:clinodev's dry mines (no aquifers mod)]
+[DESCRIPTION:Removes the aquifer tag from the nine aquifer bearing soils and stones in Dwarf Fortress, for that all day dry not drowning in the mines feeling!]
+
+[STEAM_TITLE:clinodev's Dry Mines (No Aquifers Mod)]
+[STEAM_DESCRIPTION:Removes the aquifer tag from the nine aquifer bearing soils and stones in Dwarf Fortress, for that all day dry not drowning in the mines feeling!]
+[STEAM_TAG:mod]
+[STEAM_TAG:aquaphobia]
+
+[STEAM_FILE_ID:2897791846]

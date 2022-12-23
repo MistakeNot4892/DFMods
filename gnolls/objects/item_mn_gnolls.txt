@@ -1,0 +1,19 @@
+item_mn_gnolls
+
+[OBJECT:ITEM]
+
+[ITEM_TOY:ITEM_TOY_FIGURINE_MN]
+[NAME:figurine:figurines]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_BALL_MN]
+[NAME:ball:ball]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_SPEAR_MN]
+[NAME:toy spear:toy spears]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_ANIMAL_MN]
+[NAME:toy animal:toy animals]
+[HARD_MAT]
